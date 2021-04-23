@@ -22,14 +22,14 @@
     3. Steps to test
 6. Fix any merge conflicts (if any) and send a notification to the team
 7. Wait for 2+ members of the group to approve
-8. Now you can safely merge you branch (***Note: You MUST wait for 2+ approvals***)
+8. Now you can safely merge you branch (***Note: MUST wait for approvals***)
 
 ## How to Train Data by Drawing Boxes
 
 1. Navigate to the root directory of the project
 2. Modify the `drawBoxes.py` file to use whatever data set you want
 3. Run `python3 drawBoxes.py`
-4. Draw boxes over fire (Must start at top left, going down to bottom right)
+4. Draw boxes over fire (***Must start at top left, going down to bottom right***)
 5. Once done drawing boxes over all the fires, hit `q` to go to the next file
 6. The program will terminate once youre done going though all the images
 
