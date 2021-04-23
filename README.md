@@ -35,12 +35,6 @@
 
 ## Acknowledge My Teammates
 
-1. 
-@andre3racks
-andre3racks
-@Geoffrey-Harper
-Geoffrey-Harper GeoffreyHarper
-@nicholasroethel
-nicholasroethel Nicholas Roethel
-My previous repo were messed up and I had to rebuild everything on this new account.
-Thank you for the awesome teamwork
+1. @andre3racks Andreas Anglin; @Geoffrey-Harper Geoffrey Harper; @nicholasroethel Nicholas Roethel.
+2. Thank you for the awesome teamwork
+3. My previous repo were messed up, didn't know how to fix so I had to rebuild everything on this new account.
