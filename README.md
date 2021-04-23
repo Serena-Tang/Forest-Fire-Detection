@@ -32,3 +32,15 @@
 4. Draw boxes over fire (Must start at top left, going down to bottom right)
 5. Once done drawing boxes over all the fires, hit `q` to go to the next file
 6. The program will terminate once youre done going though all the images
+
+## Acknowledge My Teammates
+
+1. 
+@andre3racks
+andre3racks
+@Geoffrey-Harper
+Geoffrey-Harper GeoffreyHarper
+@nicholasroethel
+nicholasroethel Nicholas Roethel
+My previous repo were messed up and I had to rebuild everything on this new account.
+Thank you for the awesome teamwork
